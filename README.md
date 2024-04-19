@@ -21,8 +21,7 @@ The German Credit Risk dataset contains information about credit applicants, inc
 To use these models, follow these steps:
 
 1. Clone this repository to your local machine.
-2. Install the required dependencies listed in `requirements.txt`.
-3. Run the desired model script (e.g., `gbc_model.py`, `knn_model.py`, etc.) to train the model and make predictions.
+2. Run the desired model script (e.g., `GBC.ipynb`, `KNN.ipynb`, etc.) to train the model and make predictions.
 
 ## Results
 
